@@ -1,6 +1,6 @@
-# Academic Resources
+# Teaching Resources
 
-Below are some academic resources.
+Below are some teaching resources.
 
 You are welcome to use these for your own learning, or as inspiration for your own teaching.
 
@@ -28,4 +28,4 @@ These lectures were originally presented as guest lectures as part of the TUe Se
 The course zips through the fundamental physics of electronic transport, into semiconductor physics, devices, and concludes with an 
 outlook on transistor technology.
 
-[Semiconductor Nanophyics - Electronic Devices](https://1drv.ms/b/c/2813b6b792076ca3/IQDR2dI-1vV_Q7G7YZGLQPiNATmQ8m8wXiqcBr6d3074hco?e=QP8Cr4)
+[Semiconductor Nanophysics - Electronic Devices](https://1drv.ms/b/c/2813b6b792076ca3/IQDR2dI-1vV_Q7G7YZGLQPiNATmQ8m8wXiqcBr6d3074hco?e=QP8Cr4)
