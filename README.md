@@ -7,6 +7,6 @@ This page collects various bits of output and interests.
 You may be looking for:
 
 - [Academic Output](https://www.researchgate.net/profile/Hugh-Ramsden)
-- [Teaching Resources (undergraduate to postgraduate level)](teaching.md)
+- [Teaching Resources](teaching.md)
 - [Software](software.md)
 
