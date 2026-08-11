@@ -29,4 +29,4 @@ These lectures were originally presented as guest lectures as part of the TUe Se
 The course zips through the fundamental physics of electronic transport, into semiconductor physics, devices, and concludes with an 
 outlook on transistor technology.
 
-[Semiconductor Nanophyics - Electronic Devices](.)
+[Semiconductor Nanophyics - Electronic Devices](https://1drv.ms/b/c/2813b6b792076ca3/IQDR2dI-1vV_Q7G7YZGLQPiNATmQ8m8wXiqcBr6d3074hco?e=QP8Cr4)
